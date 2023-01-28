@@ -1,4 +1,8 @@
 pandas
 numpy
+colabcode
+cmake
+dlib
+face_recognition
 
 -e .
