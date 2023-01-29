@@ -5,4 +5,18 @@ cmake
 dlib
 face_recognition
 
+addict
+future
+lmdb
+opencv-python
+Pillow
+pyyaml
+requests
+scikit-image
+scipy
+tb-nightly
+tqdm
+yapf
+tensorboard ==0.6.0
+
 -e .
